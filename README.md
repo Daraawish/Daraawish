@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**Daraawish/Daraawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+<!--Waxaan ahay Soo -saare Software,  
+  **Naqshadeeye Nidaamka & Xamaasadda Linux
 
 - 🔭 1. Hadda waxaan ka shaqeynayaa Archcraft
 - 🌱 Hadda waxaan baranayaa Python

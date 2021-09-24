@@ -1,14 +1,16 @@
-### Hi there 👋
+### Hi there 👋 
 
-<!--Waxaan ahay Soo -saare Software,  
-  **Naqshadeeye Nidaamka & Xamaasadda Linux
+<!--
+**Daraawish/Daraawish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-- 🔭 1. Hadda waxaan ka shaqeynayaa Archcraft
-- 🌱 Hadda waxaan baranayaa Python
-- 👯 Waxaan rabaa inaan iskaashi la sameeyo 
-     abuurayaasha kale ee ka kooban
-- 🤔 Yoolka 2021: Hagaajinta Archcraft oo wax badan
-      ku biiriya mashaariicda kale ee il furan
-- 💬 Yoolka 2021: Hagaajinta Archcraft oo wax badan ku
-     biiriya mashaariicda kale ee il furan
-- 🤩 Fact Xaqiiqo xiiso leh: Waan jeclahay 📸 | 🎨 | 🐶 | 👨‍💻
+Here are some ideas to get you started: 
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
